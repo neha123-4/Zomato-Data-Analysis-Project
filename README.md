@@ -46,7 +46,3 @@ This project analyzes Zomato restaurant data to understand customer preferences,
 ## 🚀 Conclusion
 This project helps understand how different factors like cost, location, and cuisine affect restaurant ratings and customer preferences.
 
----
-
-## 📎 Author
-Your Name
